@@ -4,7 +4,7 @@ Checkout-https://akshat2jain.github.io/Online-Resume/
 
 ![resume](https://user-images.githubusercontent.com/101265586/161758954-ae936d85-ec2a-405c-821d-b601830cf5fa.png)
 
-Its it fully responsive
+It is fully responsive
 -----------------------
 ![Screenshot from 2022-04-05 18-24-22](https://user-images.githubusercontent.com/101265586/161759119-487b8428-46a7-4db7-bd02-18b35faabe46.png)
 
